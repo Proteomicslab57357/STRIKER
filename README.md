@@ -1,0 +1,2 @@
+# STRIKER
+SpecTRal lIbrary maKER
